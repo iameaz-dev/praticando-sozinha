@@ -4,3 +4,5 @@ Repositório criado remotamente para praticar os conteúdos aprendidos durante a
 
 (alteração local) Esse diretório será enviado para o GitHub e ficará público para começar o meu portfólio. 
 
+(alteração remota) Git Push feito com sucesso! :)
+
